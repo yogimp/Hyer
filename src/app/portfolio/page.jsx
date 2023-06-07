@@ -1,11 +1,11 @@
 import styles from './page.module.css'
 
-const About = () => {
+const Portfolio = () => {
     return (
         <div className={styles.container}>
-            About
+            Portfolio
         </div>
     )
 }
 
-export default About
+export default Portfolio

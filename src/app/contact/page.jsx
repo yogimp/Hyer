@@ -1,7 +1,8 @@
+import styles from './page.module.css'
 
 function Contact() {
     return (
-        <div>Contact</div>
+        <div className={styles.contact}>Contact</div>
     )
 }
 
