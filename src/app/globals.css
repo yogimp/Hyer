@@ -16,7 +16,7 @@ a {
   color: inherit;
 }
 .container {
-  width: 1366px;
+  max-width: 1366px;
   min-height: 100vh;
   margin: 0 auto;
   padding: 0 60px;
